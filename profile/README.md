@@ -24,7 +24,7 @@ Alongside our technical programs, we are building a collaborative technical hub 
 
 - *Contribution before credentials.* We believe meaningful contribution is the best way to learn Bitcoin engineering.
 - *Learn by building.* Contributors develop their skills through practical
-- - *Mentorship from practitioners.* Contributors learn alongside developers actively building Bitcoin and Lightning software.
+- *Mentorship from practitioners.* Contributors learn alongside developers actively building Bitcoin and Lightning software.
 - *Community as infrastructure.* Collaboration, code review, mentorship, and peer learning are essential to developing long-term contributors.
 - *Engineering with impact.* We encourage work that strengthens Bitcoin's public infrastructure and benefits the wider ecosystem.
 
@@ -52,9 +52,10 @@ We welcome:
 - *Organizations supporting Bitcoin open-source development* that want to strengthen the contributor pipeline.
 - *Developers, designers, researchers, and technical writers* interested in building the future of Bitcoin alongside us.
 
-## Connect
+##  Connect with Us
 
 | Platform | Link |
-| 🌐 Website | https://dadadevs.com |
-| 💻 GitHub | https://github.com/Dada-Developers |
-| 𝕏 X | https://x.com/DadaDevs |
+|----------|------|
+| Website | [dadadevs.com](https://dadadevs.com) |
+| GitHub | [Dada-Developers](https://github.com/Dada-Developers) |
+| 𝕏 X (Twitter) | [@DadaDevs](https://x.com/DadaDevs) |
